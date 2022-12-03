@@ -80,7 +80,7 @@ Use build-ffmpeg-tvos.sh for tvOS.
 
         ./build-ffmpeg.sh lipo
 	
-* Add build-ffmpeg x264 support
+* Add build-ffmpeg.sh x264 support
 
 ### Download
 
