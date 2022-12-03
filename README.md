@@ -46,8 +46,6 @@ See the following repository for Swift package, .xcframeworks and more:
 
 https://github.com/kewlbear/FFmpeg-iOS
 
-[![Build Status](https://travis-ci.org/kewlbear/FFmpeg-iOS-build-script.svg?branch=master)](https://travis-ci.org/kewlbear/FFmpeg-iOS-build-script)
-
 This is a shell script to build FFmpeg libraries for iOS and tvOS apps.
 
 Tested with:
